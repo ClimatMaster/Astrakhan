@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Astrakhan/static/css/main.10dbfe87.css",
+    "main.js": "/Astrakhan/static/js/main.fc5fd952.js",
+    "static/media/IMG_6940.PNG": "/Astrakhan/static/media/IMG_6940.540d38fa047baea21e4c.PNG",
+    "index.html": "/Astrakhan/index.html",
+    "main.10dbfe87.css.map": "/Astrakhan/static/css/main.10dbfe87.css.map",
+    "main.fc5fd952.js.map": "/Astrakhan/static/js/main.fc5fd952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10dbfe87.css",
+    "static/js/main.fc5fd952.js"
+  ]
+}
