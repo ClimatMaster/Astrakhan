@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Astrakhan/static/css/main.5031daec.css",
-    "main.js": "/Astrakhan/static/js/main.38581b02.js",
+    "main.css": "/Astrakhan/static/css/main.05cbca51.css",
+    "main.js": "/Astrakhan/static/js/main.ce85dbaa.js",
     "static/media/IMG_6940.PNG": "/Astrakhan/static/media/IMG_6940.540d38fa047baea21e4c.PNG",
     "index.html": "/Astrakhan/index.html",
-    "main.5031daec.css.map": "/Astrakhan/static/css/main.5031daec.css.map",
-    "main.38581b02.js.map": "/Astrakhan/static/js/main.38581b02.js.map"
+    "main.05cbca51.css.map": "/Astrakhan/static/css/main.05cbca51.css.map",
+    "main.ce85dbaa.js.map": "/Astrakhan/static/js/main.ce85dbaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5031daec.css",
-    "static/js/main.38581b02.js"
+    "static/css/main.05cbca51.css",
+    "static/js/main.ce85dbaa.js"
   ]
 }
